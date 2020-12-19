@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 15 00:12:09 2020
 
-@author: Sasha
+@author: Tonny
 """
 #Residual Network
 
