@@ -1,7 +1,7 @@
 # Deep learning algorithms:
 
 This repo comprises of several Deep learning algorithns from basic to more advanceed algorithms.
-These algorithms include and are not limited to folloeing:
+These algorithms include and are not limited to following:
 
 * Intro to Tensorflow and Keras
 * Basic tensorflow CNNs and more advanced like Resnets
