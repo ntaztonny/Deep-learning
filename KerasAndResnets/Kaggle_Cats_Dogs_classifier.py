@@ -71,7 +71,7 @@ def split_data(SOURCE, TRAINING, TESTING, SPLIT_SIZE):
         if(len(m) > 0):
             copyfile(SOURCE+m, TESTING+m)
             
-# YOUR CODE ENDS HERE
+
 
 CAT_SOURCE_DIR = "/tmp/PetImages/Cat/"
 TRAINING_CATS_DIR = "/tmp/cats-v-dogs/training/cats/"
